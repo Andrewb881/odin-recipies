@@ -1,1 +1,2 @@
 # odin-recipies
+This project will showcase all the materials I have learned thusfar.  It will have a main index page which will have links to recipes.  This will demonstrate my ability to use git as well as the various tools you can use with html
